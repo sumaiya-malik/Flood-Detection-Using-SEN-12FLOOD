@@ -5,3 +5,6 @@ A summary of the dataset's principal characteristics is given below:
 | Number of sequences | Tile dimension | Locations | 
 | ------------- |------------- | -----|
 | 336 | 512x512 |West Africa, South-East Africa, Middle East, Australia |
+
+The dataset is available on the [IEEE dataport](https://ieee-dataport.org/open-access/sen12-flood-sar-and-multispectral-dataset-flood-detection).
+
